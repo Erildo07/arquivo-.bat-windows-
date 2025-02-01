@@ -18,3 +18,6 @@ Garante que todas as pastas (mesmo vazias) sejam copiadas.
 Exibe mensagem informando que o backup foi concluído.
 Aguarda 60 segundos com timeout /t 60.
 Finaliza o script com exit.
+
+
+-------------------------------------------usudo pra windows---------------------------------------
